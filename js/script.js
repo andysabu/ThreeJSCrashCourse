@@ -1,6 +1,4 @@
-import {
-    THREE as 
-} from '../js/three.js';
+import * as THREE from "../js/three";
 
 let scene = new THREE.scene();
 let camera = new THREE.perspectiveCamera(
